@@ -51,11 +51,13 @@ https://www.ritzcarlton.com/
 2. Include a working preview link (Vercel/Netlify) if possible.
 3. Add any setup/run instructions in this README.
 
-## Submission
+## Submission: SUBMITTED ON 07/07/2025 at 23:58 IST.
 
 ### What is included
 1. Only the top navigation menu is implemented in style and looks. No pages were implemented as targets.
 2. The carousel is implemented using Swiper. The properties need to be added to the Properties component's list of properties. There is a feature to even position the description on the image.
+
+The deployment on netlify is not done yet. Will inform when done tomorrow.
 
 
 
